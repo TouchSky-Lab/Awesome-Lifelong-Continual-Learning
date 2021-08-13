@@ -12,5 +12,6 @@
 
 
 # Reference
-https://github.com/xialeiliu/Awesome-Incremental-Learning
+[1] https://github.com/xialeiliu/Awesome-Incremental-Learning
+[2] https://github.com/prprbr/awesome-lifelong-continual-learning
 
