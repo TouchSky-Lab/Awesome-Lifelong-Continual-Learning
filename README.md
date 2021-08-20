@@ -2,7 +2,7 @@
 - Online Continual Learning in Image Classification: An Empirical Survey (arXiv 2020) [[paper](https://arxiv.org/abs/2101.10423)]
 - Continual Lifelong Learning in Natural Language Processing: A Survey (COLING 2020)[[paper](https://www.aclweb.org/anthology/2020.coling-main.574/)] 
 - Class-incremental learning: survey and performance evaluation (arXiv 2020) [[paper](https://arxiv.org/abs/2010.15277)][[code](https://github.com/mmasana/FACIL)]
-- A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (Neural Networks) [[paper](https://arxiv.org/pdf/2011.01844.pdf)][[code](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/cil)][[paper]()]
+- A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (Neural Networks) [[paper](https://arxiv.org/pdf/2011.01844.pdf)][[code](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/cil)]
 - A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9349197)]
 - Continual Lifelong Learning with Neural Networks: A Review (Neural Networks) [[paper](https://arxiv.org/abs/1802.07569)]
 - Three scenarios for continual learning (arXiv 2019) [[paper](https://arxiv.org/abs/1904.07734v1)][[code](https://github.com/GMvandeVen/continual-learning)]
