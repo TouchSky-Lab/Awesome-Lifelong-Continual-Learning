@@ -12,7 +12,7 @@
 
 
 # Knowledge Distillation and Incremental Learning
-- Learning without forgetting
+- Learning without forgetting | 2017 |[[code](https://github.com/ngailapdi/LWF)]
 - End-to-end incremental learning. | ECCV | [[code](https://github.com/PatrickZH/End-to-End-Incremental-Learning)]
 - Lifelong learning via progressive distillation and retrospection. In Proceedings of the European Conference on Computer Vision (ECCV),
 - Overcoming catastrophic forgetting with unlabeled data in the wild.
