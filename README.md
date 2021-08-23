@@ -10,6 +10,16 @@
 # Longlife learning 
 - Continuous Coordination As a Realistic Scenario for Lifelong Learning (ICML, 2021) 
 
+
+# Knowledge Distillation and Incremental Learning
+- Learning without forgetting
+- End-to-end incremental learning. In Proceedings of the European Conference on Computer Vision (ECCV
+- Lifelong learning via progressive distillation and retrospection. In Proceedings of the European Conference on Computer Vision (ECCV),
+- Overcoming catastrophic forgetting with unlabeled data in the wild.
+- Large scale incremental learning CVPR
+- The effectiveness of memory replay in large scale continual learning.
+- Learning a unified classifier incrementally via rebalancing.
+
 # Longlife Learning for CV
 - RECALL: Replay-based Continual Learning in Semantic Segmentation (ICCV, 2021) 
 - Few-Shot and Continual Learning with Attentive Independent Mechanisms (ICCV, 2021) 
@@ -23,7 +33,6 @@
 - Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks (NAACL, 2021)
 - Continual Learning for Text Classification with Information Disentanglement Based Regularization (NAACL, 2021)
 - Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(EMNLP, 2020) 
-
 
 
 # Data-Free 
