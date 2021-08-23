@@ -14,6 +14,7 @@
 # Knowledge Distillation and Incremental Learning
 - Learning without forgetting | 2017 |[[code](https://github.com/ngailapdi/LWF)]
 - End-to-end incremental learning. | ECCV | [[code](https://github.com/PatrickZH/End-to-End-Incremental-Learning)]
+- icarl incremental classifier and representation learning | NIPS 2017 | [[paper](https://arxiv.org/pdf/1611.07725.pdf)][[code](https://github.com/srebuffi/iCaRL)]
 - Lifelong learning via progressive distillation and retrospection. In Proceedings of the European Conference on Computer Vision (ECCV),
 - Overcoming catastrophic forgetting with unlabeled data in the wild.
 - Large scale incremental learning CVPR
@@ -39,8 +40,6 @@
 - Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning [[paper](https://arxiv.org/abs/2106.09701)][[code](https://github.com/GT-RIPL/AlwaysBeDreaming-DFCIL)]
 - ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning (CVPR, 2021) 
 - Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning (CVPR, 2021)
-- 
-- 
 
 
 # Reference
