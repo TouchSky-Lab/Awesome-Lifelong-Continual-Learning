@@ -12,14 +12,14 @@
 
 
 # Knowledge Distillation and Incremental Learning
-- Learning without forgetting | 2017 |[[code](https://github.com/ngailapdi/LWF)]
-- End-to-end incremental learning. | ECCV | [[code](https://github.com/PatrickZH/End-to-End-Incremental-Learning)]
+- Learning without forgetting | ECCV 2016 | [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/ngailapdi/LWF)]
+- End-to-end incremental learning. | ECCV 2018 | [[paper](https://arxiv.org/abs/1807.09536)] [[code](https://github.com/PatrickZH/End-to-End-Incremental-Learning)]
 - icarl incremental classifier and representation learning | NIPS 2017 | [[paper](https://arxiv.org/pdf/1611.07725.pdf)][[code](https://github.com/srebuffi/iCaRL)]
-- Lifelong learning via progressive distillation and retrospection. In Proceedings of the European Conference on Computer Vision (ECCV),
-- Overcoming catastrophic forgetting with unlabeled data in the wild.
-- Large scale incremental learning CVPR
-- The effectiveness of memory replay in large scale continual learning.
-- Learning a unified classifier incrementally via rebalancing.
+- Lifelong learning via progressive distillation and retrospection. | ECCV 2018 | [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Saihui_Hou_Progressive_Lifelong_Learning_ECCV_2018_paper.pdf)]
+- Overcoming catastrophic forgetting with unlabeled data in the wild. [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
+- Large scale incremental learning. | CVPR 2019| [[paper](https://arxiv.org/abs/1905.13260)]
+- The effectiveness of memory replay in large scale continual learning. 
+- Learning a unified classifier incrementally via rebalancing. |CVPR 2019| [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf)]
 
 # Longlife Learning for CV
 - RECALL: Replay-based Continual Learning in Semantic Segmentation (ICCV, 2021) 
