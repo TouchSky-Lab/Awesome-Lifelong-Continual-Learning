@@ -11,6 +11,16 @@
 - Continuous Coordination As a Realistic Scenario for Lifelong Learning (ICML, 2021) 
 
 
+# Longlife learning with GAN
+- Continual Learning with Deep Generative Replay (NIPS2017) [paper] [code]
+- Exemplar-Supported Generative Reproduction for Class Incremental Learning (BMVC2018) [paper] [code]
+- Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018) [paper] [code]
+- Lifelong GAN: Continual Learning for Conditional Image Generation (ICCV2019) [paper]
+- Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (ECCV2020) [paper]
+- Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(EMNLP, 2020) [paper]
+- Efficient Feature Transformations for Discriminative and Generative Continual Learning (CVPR, 2021) [paper]
+- Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (CVPR, 2021) [paper]
+
 # Knowledge Distillation and Incremental Learning
 - Learning without forgetting | ECCV 2016 | [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/ngailapdi/LWF)]
 - End-to-end incremental learning. | ECCV 2018 | [[paper](https://arxiv.org/abs/1807.09536)] [[code](https://github.com/PatrickZH/End-to-End-Incremental-Learning)]
